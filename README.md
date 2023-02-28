@@ -13,11 +13,11 @@ Facts about me…
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif">
 
 
-- 🔭 I’m leading **my team to achieve their goals and mine, as a team lead in Microverse, an online, full-time, 40-week full stack software development program.**
+- 🔭 I’m leading **my team to achieve their goals and mine, as a team lead in Microverse, an online, full-time, 40-week full-stack software development program.**
 
 - 🌱 I’m training **through their methodology using remote collaborative learning and mastery learning.**
 
-- 😄 I like: **Solving problems, creating new things, running, playing football.**
+- 😄 I like: **Solving problems, creating new things, running, and playing football.**
 
 - 🤔 I’m exploring different opportunities in Full-Stack Development.
 
