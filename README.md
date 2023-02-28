@@ -43,7 +43,7 @@ Facts about me…
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=HERMON-1995&" alt="hermon-1995" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HERMON-1995&show_icons=true&locale=en&layout=compact" alt="hermon-1995" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hermon-1995&" alt="hermon-1995" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hermon-1995&" alt="hermon-1995" /></p>
 
 
 
