@@ -1,7 +1,6 @@
-<h1 align="center">Hi there👋, I'm Hermon!</h1>
-
 ![Hermon Gebre](https://user-images.githubusercontent.com/113925955/221858414-dfdb6b63-f372-41a5-9020-4fbe3829cedf.png)
 
+<h1 align="center">Hi there👋, I'm Hermon!</h1>
 
 <h3 align="center">Highly Motivated Ethiopian Full-Stack Developer</h3>
 
