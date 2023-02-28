@@ -28,6 +28,9 @@ Facts about me…
 
 - ⚡ Fun fact **I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines.**
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HERMON-1995&show_icons=true&locale=en&layout=compact" alt="hermon-1995" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hermon1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hermon1995" height="30" width="40" /></a>
@@ -42,7 +45,6 @@ Facts about me…
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=HERMON-1995&" alt="hermon-1995" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HERMON-1995&show_icons=true&locale=en&layout=compact" alt="hermon-1995" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hermon-1995&" alt="hermon-1995" /></p>
 
 
