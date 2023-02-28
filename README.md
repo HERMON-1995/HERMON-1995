@@ -48,9 +48,9 @@ Facts about me…
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=HERMON-1995&" alt="hermon-1995" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hermon-1995&" alt="hermon-1995" /></p>
 <h3 align="left">Display github streak stats:</h3>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hermon-1995&" alt="hermon-1995" /></p>
 
 
 
