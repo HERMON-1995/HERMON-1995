@@ -47,8 +47,8 @@ Facts about me…
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=HERMON-1995&" alt="hermon-1995" /></p>
 
-<h3 align="center">Github profile stats card:</h3>
-<h3 align="center">Github streak stats:</h3>
+<h3 align="center">A good programmer is someone who always looks both ways before crossing a one-way street. That is me👨‍💻☝️</h3>
+<h3 align="center">Go ahead. Take a look at my code. 💻 #programming.</h3>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hermon-1995&" alt="hermon-1995" /></p>
