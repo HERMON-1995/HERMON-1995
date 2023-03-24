@@ -2,13 +2,22 @@
 
 <h1 align="center">Hi there👋, I'm Hermon!</h1>
 
-<h3 align="center">Highly Motivated Ethiopian Full-Stack Developer</h3>
+<h3 align="center">Highly Motivated Ethiopian:</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7855B&width=435&lines=Full-stack+Software+Developer+;" alt="Typing SVG" /></a>
+  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HERMON-1995&label=Profile%20views&color=0e75b6&style=flat" alt="hermon-1995" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hermongebre1995" target="blank"><img src="https://img.shields.io/twitter/follow/hermongebre1995?logo=twitter&style=for-the-badge" alt="hermongebre1995" /></a> </p>
 
-Facts about me…
+<h1 align="center">Facts about me…</h1>
+
+<p align="center">  
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7855B&width=435&lines=Seeking+new+career+opportunities.+;" alt="Typing SVG" /></a>
+</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif">
 
@@ -23,7 +32,7 @@ Facts about me…
 
 - 💬 Ask me about: **front and backend development including: JavaScript | Node | CSS | Bootstrap | HTML | React...**
 
-- 📫 How to reach me **hermonghiwot1995@gmail.com**
+- 📫 How to reach me **[📧](hermonghiwot1995@gmail.com)**
 
 - ⚡ Fun fact **I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines.**
 
