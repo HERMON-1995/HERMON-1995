@@ -41,7 +41,7 @@
 <a href="https://twitter.com/hermongebre1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hermongebre1995" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hermon-gebre-03290a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hermon-gebre-03290a228/" height="30" width="40" /></a>
 <a href="https://fb.com/hermon.gebrehiwot.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hermon.gebrehiwot.16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/ucif8vhnqvy7mp8rgjf9t-6g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucif8vhnqvy7mp8rgjf9t-6g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCif8vhnqVY7mp8RGjf9T-6g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucif8vhnqvy7mp8rgjf9t-6g" height="30" width="40" /></a>
 </p>
 
 
