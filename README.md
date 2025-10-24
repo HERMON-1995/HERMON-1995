@@ -1,4 +1,6 @@
-![Hermon Gebre](https://raw.githubusercontent.com/HERMON-1995/HERMON-1995/main/BannerDesign.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HERMON-1995/HERMON-1995/main/BannerDesign.png" width="1000" height="400" alt="Hermon Gebre">
+</p>
 
 <h1 align="center">Hi there👋, I'm Hermon!</h1>
 
