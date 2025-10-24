@@ -5,7 +5,7 @@
 <h3 align="center">Highly Motivated:</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Full-stack+Software+Developer+;Seeking+new+career+opportunities...+;&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Full-stack+Software+Developer+; Seeking+new+career+opportunities...+;&center=true"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HERMON-1995&label=Profile%20views&color=0e75b6&style=flat" alt="hermon-1995" /> </p>
