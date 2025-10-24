@@ -1,4 +1,4 @@
-![Hermon Gebre](https://user-images.githubusercontent.com/113925955/221858414-dfdb6b63-f372-41a5-9020-4fbe3829cedf.png)
+![Hermon Gebre](https://www.canva.com/design/DAG14A5lGls/MvHwdxWVVws0UJqKN3HQdQ/edit?utm_content=DAG14A5lGls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi there👋, I'm Hermon!</h1>
 
