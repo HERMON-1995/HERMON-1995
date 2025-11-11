@@ -17,21 +17,17 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif">
 
 
-- 🔭 I’m leading **my team to achieve their goals and mine, as a team lead in Microverse, an online, full-time, 40-week full-stack software development program.**
+- 🔭 🌱 Skills & Experience: Built full-stack applications using JavaScript | Node | React | HTML | CSS | Bootstrap, and led team projects to successful delivery.
 
-- 🌱 I’m training **through their methodology using remote collaborative learning and mastery learning.**
+- 😄 Passions: Problem-solving, creating innovative projects, running, and playing football.
 
-- 😄 I like: **Solving problems, creating new things, running, and playing football.**
+- 🤔 Exploring: Opportunities in Full-Stack Development and IT solutions.
 
-- 🤔 I’m exploring different opportunities in Full-Stack Development.
+- 💬 Ask me about: Frontend and backend development, RESTful APIs, and responsive web design.
 
-- 💬 Ask me about: **front and backend development including: JavaScript | Node | CSS | Bootstrap | HTML | React...**
+- 📫 Contact me: hermonghiwot1995@gmail.com
 
-- 📫 How to reach me **[📧](hermonghiwot1995@gmail.com)**
-
-- ⚡ Fun fact **I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines.**
-
-
+- ⚡ Fun fact: I can debug code faster than I can decide what to eat for lunch 🍕💻
 <h3 align="left">Connect with me:</h3>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HERMON-1995&show_icons=true&locale=en&layout=compact" alt="hermon-1995" /></p>
